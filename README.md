@@ -2,7 +2,7 @@
 
 To get started, clone this repo.
 
-<!-- Use jquery to select the element containing the words "Hello There" with as many different selectors as you can think of:
+Use jquery to select the element containing the words "Hello There" with as many different selectors as you can think of:
 
 ``` html
 <!DOCTYPE html>
@@ -15,8 +15,8 @@ To get started, clone this repo.
     </div>
   </div>
 </body>
-``` -->
-In your Chrome Javascript Console, try the following challenges:
+```
+Open `index.html`. In your Chrome Javascript Console, try the following challenges:
 
 1. *Get* the value "Hello There".
 2. Change (or *set*) the value to "Hola".
