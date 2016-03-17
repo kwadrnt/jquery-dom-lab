@@ -16,7 +16,7 @@ Open `index.html`. In your Chrome Javascript Console, use jquery to select the e
   </div>
 </body>
 ```
-Open `index.html`. In your Chrome Javascript Console, try the following challenges:
+Also in your Chrome Javascript Console, try the following challenges:
 
 1. *Get* the value "Hello There".
 2. Change (or *set*) the value to "Hola".
