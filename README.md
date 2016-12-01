@@ -1,13 +1,8 @@
-## jQuery Selector Challenge
+## jQuery Selector Challenge - [solutions](solutions.md)
 
-Solution in `solution` branch. Checkout with
-```
-git checkout solution
-```
+To get started, clone this repo.
 
-To get started, fork and clone this repo.
-
-<!-- Use jquery to select the element containing the words "Hello There" with as many different selectors as you can think of:
+Open `index.html`. In your Chrome Javascript Console, use jquery to select the element containing the words "Hello There" with as many different selectors as you can think of:
 
 ``` html
 <!DOCTYPE html>
@@ -20,10 +15,16 @@ To get started, fork and clone this repo.
     </div>
   </div>
 </body>
-``` -->
+```
+Also in your Chrome Javascript Console, try the following challenges:
 
 1. *Get* the value "Hello There".
 2. Change (or *set*) the value to "Hola".
 3. Add an h1 to the page that says "A Spanish Greeting".
 4. Add a second greeting ("Que tal?"), in a second column to the right of the first.
 5. Add the class "blue" to both greetings.
+
+
+For each problem above, copy your solution into [`/scripts/app.js`](/scripts/app.js) on the correct line.
+
+When you open `index.html` in your browser, your solutions should all run!
